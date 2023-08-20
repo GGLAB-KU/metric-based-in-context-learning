@@ -1,0 +1,1 @@
+The "ASSET" folder refers to SARI-selected examples on the ASSET dataset, and the "TurkCorpus" folder refers to SARI-selected examples on the TurkCorpus dataset. Each folder has "Babbage," "Curie," and "DV3" subfolders, which refer to the different models outputs. The numbers at the ends of the files refers to the number of examples used for prompting.
