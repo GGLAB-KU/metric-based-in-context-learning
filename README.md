@@ -1,6 +1,6 @@
 # Metric-Based In-Context Learning: A Case Study in Text Simplification
 
-This is code for the implementation of the paper "Metric-Based In-Context Learning: A Case Study in Text Simplification."
+This is code for the implementation of the paper "Metric-Based In-Context Learning: A Case Study in Text Simplification." (INLG 2023)
 
 In the code folder of the repository, you will find the code used to generate data for all of the experiments, including how to generate simplifications from GPT-3 (used in all of our example selection experiments) and our own implementation of KATE-GPT for optimized example selection.
 
