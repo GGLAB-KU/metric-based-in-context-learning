@@ -1,6 +1,6 @@
-The package EASSE was used to generate reports for our project.
+The package [EASSE](https://github.com/feralvam/easse) was used to generate reports for our project.
 
-As per the original implementation, we use "easse report" to generate detailed reports. We use the 'custom' functionality for easse to evaluate on both TurkCorpus, ASSET, and FestAbility sentences. The original datasets of TurkCorpus, ASSET, and FestAbility are copied directly from the original papers, and they are also provided in this folder for ease of access.
+As per the original implementation, we use "easse report" to generate detailed reports. We use the 'custom' functionality for easse to evaluate on both TurkCorpus, ASSET, and FestAbility sentences. The original datasets of TurkCorpus, ASSET, and FestAbility are copied directly from the original papers, and they are also provided in this folder for ease of access. To generate the reports, please clone the EASSE repository and follow the setup indicated on their page. Then, run the following commands in your terminal.
 
 For ASSET, TurkCorpus, and Festability, we use the following code to generate reports, where YOUR_PATH_HERE is a string with the relative path of the file you are trying to assess. The specific directories may need to be changed based on where you store the original datasets.
 
