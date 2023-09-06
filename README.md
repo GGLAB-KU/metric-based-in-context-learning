@@ -1,6 +1,6 @@
 # Metric-Based In-Context Learning: A Case Study in Text Simplification
 
-This is code for the implementation of the paper "Metric-Based In-Context Learning: A Case Study in Text Simplification." (INLG 2023)
+This is code for the implementation of the paper ["Metric-Based In-Context Learning: A Case Study in Text Simplification."](https://arxiv.org/abs/2307.14632) (Will be published at INLG 2023 proceedings)
 
 ## Code
 
