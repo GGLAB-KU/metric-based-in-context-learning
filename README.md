@@ -15,3 +15,7 @@ In the output folder of the repository, you will find the results for all experi
 In the eval folder, the code and implementation of how to generate the EASSE reports are provided, so you can replicate our SARI and BLEU scores in our results. The original datasets that our generations are compared against are also provided for ease of access and use.
 
 If you have any questions, please feel free to email subhavee2@gmail.com. Thank you!
+
+# ℹ️ Acknowledgement
+
+This work has been supported by the [Scientific and Technological Research Council of Türkiye~(TÜBİTAK)](https://www.tubitak.gov.tr/) as part of the project ``Automatic Learning of Procedural Language from Natural Language Instructions for Intelligent Assistance'' with the number 121C132. We also gratefully acknowledge [KUIS AI Lab](https://ai.ku.edu.tr/) and [Fatima Fellowship](https://www.fatimafellowship.com/) for providing computational support. 
